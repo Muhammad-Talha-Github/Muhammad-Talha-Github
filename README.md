@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">A passionate AI engineer from Pakistan</h3>
+<h3 align="center">Dedicated to solving real-world problems using AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-talha-github&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-talha-github" /> </p>
 
