@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-github" alt="muhammad-talha-github" /></a> </p>
 
-- 🔭 I’m currently working on **LLMs/ML/DL**
+- 🔭 I’m currently working on **LLMs/ML/DL/Computer Vision**
 
 - 📫 How to reach me **talha.muhammad7702@gmail.com**
 
