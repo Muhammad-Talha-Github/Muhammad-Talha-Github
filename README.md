@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-talha-github&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-talha-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-github" alt="muhammad-talha-github" /></a> </p>
+<p align="left"> Muhammad-Talha-Github </p>
 
 - 🔭 I’m currently working on **LLMs/ML/DL/Computer Vision**
 
